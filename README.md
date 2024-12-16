@@ -10,7 +10,7 @@
   <div class="container">
     <!-- Left Section -->
     <div class="content">
-      <img src="images/logo.png" alt="Base Apparel Logo" class="logo">
+      <img src="images/logo.svg" alt="Base Apparel Logo" class="logo">
       <h1>We're <span>coming soon</span></h1>
       <p>
         Hello fellow shoppers! We're currently building our new fashion store. 
