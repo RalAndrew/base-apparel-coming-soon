@@ -1,4 +1,4 @@
-# base apparel-coming-soon
+# base-apparel-coming-soon
 <!DOCTYPE html>
 <html lang="en">
 <head>
