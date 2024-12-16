@@ -20,7 +20,8 @@
 
   We're coming soon
 
-  ![image](https://github.com/user-attachments/assets/a25170e3-0eb7-4e6c-9ffc-4ee80d972884)
+ ![image](https://github.com/user-attachments/assets/6371c1bc-e2f3-407f-80d3-928e08d95d15)
+
 
 
   Hello fellow shoppers! We're currently building our new fashion store. 
