@@ -24,7 +24,7 @@
 
     <!-- Right Section -->
     <div class="hero-image">
-      <img src="images/image.png" alt="Woman in orange shirt">
+      <img src="![image](https://github.com/user-attachments/assets/772b895e-9fac-401e-b060-57b1645e00ab)" alt="Woman in orange shirt">
     </div>
   </div>
 
