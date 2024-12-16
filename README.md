@@ -24,7 +24,7 @@
 
     <!-- Right Section -->
     <div class="hero-image">
-      <img src="images/hero-desktop.jpg" alt="Woman in orange shirt">
+      <img src="images/hero-desktop.jpg" alt="Woman in orange shirt" >
     </div>
   </div>
 
