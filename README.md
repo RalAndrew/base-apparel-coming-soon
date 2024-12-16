@@ -1,38 +1,37 @@
-# base-apparel-coming-soon
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Base Apparel coming soon page</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Base Apparel | Coming Soon</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
 </head>
 <body>
-  <h1> Testing to see if this is added</h1>
+  <div class="container">
+    <!-- Left Section -->
+    <div class="content">
+      <img src="images/logo.png" alt="Base Apparel Logo" class="logo">
+      <h1>We're <span>coming soon</span></h1>
+      <p>
+        Hello fellow shoppers! We're currently building our new fashion store. 
+        Add your email below to stay up-to-date with announcements and our launch deals.
+      </p>
+      <form>
+        <input type="email" placeholder="Email Address" required>
+        <button type="submit">→</button>
+      </form>
+    </div>
 
-  We're coming soon
+    <!-- Right Section -->
+    <div class="hero-image">
+      <img src="images/image.png" alt="Woman in orange shirt">
+    </div>
+  </div>
 
- ![image](https://github.com/user-attachments/assets/6371c1bc-e2f3-407f-80d3-928e08d95d15)
-
-
-
-  Hello fellow shoppers! We're currently building our new fashion store. 
-  Add your email below to stay up-to-date with announcements and our launch deals.
-
-  Email Address
-  
   <footer>
     <p class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Your Name Here</a>.
+      Coded by <a href="#">Your Name</a>.
     </p>
   </footer>
 </body>
