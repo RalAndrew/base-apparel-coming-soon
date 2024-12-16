@@ -20,6 +20,9 @@
 
   We're coming soon
 
+  ![image](https://github.com/user-attachments/assets/a25170e3-0eb7-4e6c-9ffc-4ee80d972884)
+
+
   Hello fellow shoppers! We're currently building our new fashion store. 
   Add your email below to stay up-to-date with announcements and our launch deals.
 
